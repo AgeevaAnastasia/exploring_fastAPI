@@ -5,7 +5,7 @@
 
 import os.path
 
-import requests
+
 import threading
 import time
 
